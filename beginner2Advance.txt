@@ -1,0 +1,53 @@
+Js Roadmap for beginners -2024
+
+History
+ *brendan Eich first developed js 
+  * first name Mocha and later changed typescript
+  * java famous so decided to change the name javascript
+CONCEPTS
+ 1)Variables - 3types var,let,const
+    var support in hoisiting
+     hoisting is kevalamana concepts
+    var - redeclare,reassgin
+    let - no redeclare, no reassing
+    const - no redeclare and also reassign
+ 2) Hoisitng - interviewer will ask but dont apply in realtime its worst it makes to complicated the program 
+ 3) Scope - only 2 scope  Local ,Global scope
+      -> in scope block,function,lexical scope
+ 4) Temperal dead zone - Namaste js yt 
+ 5) Data types - Primitive and Non Primitive
+     in primitive - String,Null,undefined,numbers,boolean
+     in non-primitive - Objects,Arrays
+ 6) Data types -we can find data type by using - typeof 
+ 7) Object - object prototype ,  prototypal inheritance 
+ 8) Array methods - map,reduce,filter,sort 
+ 9) Type casting - Implicit,Explicit
+     implicit - namba ethum sollama automatic ah work achina atha
+     explicit - namala cast panum solrathutha type casting 
+ 10) type casting la - type conversion ,type coercion
+11) Data structures - Indexed collection ,keyed collections(map,weak map,set,weak set
+12) Strucutred data - JSON 
+13) Equality comparisons - strict equality / loose equality 
+14) object.is()
+15) loops and iterations - condtions,do,while,for,for in ,for of ,break,continue,labelled statements (old)
+16) control flow - Exception handling [throw,try,catch,finally]
+17)Error object 
+18) expresssion operatiors - assignment,compaison,arithmetic,bitwise,logical,bigint,string,conditionals,comma,unary
+19)Functions - arrow functions,parameter,argument
+default,rest[3 dot ],spread [copy the values]
+Rest - parameters athikama pass panalum atha ec ya add panikalam
+
+20)function scoping,lexical environment,callback function,closure function[ulla irukura function vela use pana]
+21) this keyword
+22) binding
+23) strict mode 
+24) asynchronous js -setinterval,setTimeout
+25)  event loop - namaste js 
+26) callbacks and promises - resolve,reject
+27) working with api - xml http request and fetch
+  fetch - ajax
+API IS MUST
+28) Iterators and generator 
+29) modules in js 
+30) Memory management - Memory lifecycle,garbage collection
+31) chrome dev tools - hareesh rajendaran separate video checkout 
